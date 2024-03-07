@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/ai.png</file>
+        <file>assets/icon.png</file>
+        <file>assets/ManjaroMix.qss</file>
+        <file>assets/splash.png</file>
+        <file>assets/x-ray.png</file>
+    </qresource>
+</RCC>
