@@ -22,3 +22,4 @@
 
 4. apk文件下载
 
++ apk下载： https://github.com/DataXujing/ncnn_android_yolov9/releases/tag/1.0
